@@ -1,0 +1,7 @@
+library WinjsMIDI;
+
+uses ChakraMIDI;
+
+exports GetJsValue;
+
+end.
